@@ -1,22 +1,22 @@
-        `<footer class="pt-4 my-md-5 pt-md-5 border-top container">
+        <footer class="pt-4 my-md-5 pt-md-5 bg-dark text-white text-center">
             <h1 class="text-center">Nos Partenaires</h1>
-            <div class="row container">
+            <div class="row">
             
-            <div class="col-4 col-md ml-3 mt-3">
-                <img src="img/cedimes.png" alt="" height="150" width="150" class="ml-3 mt-3">
-            </div>
-            <div class="col-4 col-md ml-3 mt-3">
-                <img src="img/ermasmop.png" alt="" height="150" width="150" class="mt-3 ml-5 text-center">
-            </div>
-            <div class="col-4 col-md ml-3 mt-3">
-                <img src="img/minesup.png" alt="" height="150" width="150" class="ml-3 mt-3">
-            </div>
+                <div class="col-4 col-md-4 ml-3 mt-3">
+                    <img src="img/cedimes.png" alt="" height="150" width="150" class="ml-3 mt-3">
+                </div>
+                <div class="col-4 col-md-4 ml-3 mt-3">
+                    <img src="img/ermasmop.png" alt="" height="150" width="150" class="mt-3 ml-5 text-center">
+                </div>
+                <div class="col-4 col-md-4 mr-3 mt-3" style="float: left;">
+                    <img src="img/minesup.png" alt="" height="150" width="150" class="ml-3 mt-3">
+                </div>
             </div>
             <div class="row">
             <div class="col-12 col-md">
                 <img class="mb-2" src="img/logo (1).png" alt="" width="40" height="40">
-                <small class="d-block mb-3 text-muted">&copy;Copyright | Tout droit reservé</small>
-                <small class="d-block mb-3 text-muted text-justify">Autorisation de création et d'ouverture N° 21-05401/L/MINSUP/SG/DDES/ESUP/SDA/ABC </small>
+                <small class="d-block mb-3 ">&copy;Copyright | Tout droit reservé</small>
+                <small class="d-block mb-3 text-justify">Autorisation de création et d'ouverture N° 21-05401/L/MINSUP/SG/DDES/ESUP/SDA/ABC </small>
             </div>
             
             <div class="col-12 col-md">
@@ -77,12 +77,12 @@
             </div>  
             </div>
             <div class="row text-center">
-            <a class="text-muted" href="#"><i class="fa-sharp fa-regular fa-envelope"></i>Email:isaape.essazok.nsimalen21@gmail.com</a>
+            <a class="email" href="#"><i class="fa-sharp fa-regular fa-envelope"></i>Email:isaape.essazok.nsimalen21@gmail.com</a>
             </div>
         </footer>
 
+    </body>
             <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
             <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js" integrity="sha384-mQ93GR66B00ZXjt0YO5KlohRA5SY2XofN4zfuZxLkoj1gXtW8ANNCe9d5Y3eG5eD" crossorigin="anonymous"></script>
-            </body>
-        </html>
+    </html>
 `

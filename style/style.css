@@ -1,0 +1,13 @@
+.email{
+    margin-top: 3em;
+    color: #928f8fcb;
+    text-decoration: none;
+}
+.email::before{
+    content: "";
+    display: block;
+    height: 1px;
+    background-color: #11ee41;
+    width: 10%;
+    margin: 0.5em auto;
+}
